@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidXML</string>
+    <string name="title_home">Incident</string>
+    <string name="title_dashboard">Scottish_Road</string>
+    <string name="title_notifications">Roadworks</string>
+    <string name="nav_item">Item</string>
+</resources>
